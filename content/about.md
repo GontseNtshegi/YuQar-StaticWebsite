@@ -1,25 +1,23 @@
 ---
-title: About YuQar
+title: About YuQar Group
 description: YuQar, Group of Software companies
 date: 2019-02-28
 author: Hugo Authors
 menu: main
 ---
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+Our story began in 2017 back when new Open source technologies were starting to be introduced in the South African market. Founder and CEO of YuQar Group, Gontse Ntshegi, a software engineer by proffession who studied computer science & Physics from the University of Cape Town saw a gap in how software services are provided in the market.
 
-Hugo makes use of a variety of open source projects including:
+We aspire to become the most valuable comapany in the JSE, that delivers high quality software, globally, that meets customer needs.
 
-* https://github.com/russross/blackfriday
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+YuQar makes use of a variety of open source projects including:
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+* https://netflix.github.io/
+* https://www.jhipster.tech/
 
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+What is YuQar Group ?
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+YuQar Group is mostly a collection of companies, mainly 3 different companies that offer services in 3 different and separate industries. The oldest and largest which is
+YuQar Technologies - which offers a variety of software services comprising of Software Consulting, Management Consulting in Information Systems, Systems Architecture and cloud solutions through AWS.
+The 2nd company is YuQar Construction specializing in supply and demand of construction equipment and resources. And Lastly, YuQar Lifestyle, which comprises of a fleet of YuQar Carwashes and YuQar Cafe in the Townships.
